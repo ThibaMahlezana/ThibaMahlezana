@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on NodeJS, React Projects, cloning some of the most popular sites today (e.g Facebook, Twitter e.t.c) 
 - 🌱 I’m currently learning Dart, Flutter, Deep Learning and Tensorflow.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
-- 📢 Languages: HTML5, CSS3, JS, PHP, NodeJS, ReactJS, C, C++.
+- 📢 Languages: HTML5, CSS3, JS, Python, PHP, NodeJS, ReactJS, C, C++.
 
 <!--
 **ThibaMahlezana/ThibaMahlezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
