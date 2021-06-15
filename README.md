@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 📢 Languages: 
 
-- 📫 How to reach me: [twitter](https://twitter.com/thiba_mahlezana)
+- 📫 How to reach me: <a href="#" class="button">Twitter</a>
 
 <!--
 **ThibaMahlezana/ThibaMahlezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
