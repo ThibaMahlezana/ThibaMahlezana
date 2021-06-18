@@ -5,6 +5,9 @@
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 📢 Languages: HTML5, CSS3, JS, Python, PHP, NodeJS, ReactJS, C, C++.
 
+## 📈 GitHub Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaMahlezana" />
+
 <!--
 **ThibaMahlezana/ThibaMahlezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
