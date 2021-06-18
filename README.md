@@ -5,9 +5,11 @@
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 📢 Languages: HTML5, CSS3, JS, Python, PHP, NodeJS, ReactJS, C, C++.
 
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+
 ### 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaMahlezana" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibaMahlezana" />
 
 <!--
 **ThibaMahlezana/ThibaMahlezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
