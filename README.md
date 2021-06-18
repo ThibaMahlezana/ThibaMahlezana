@@ -7,6 +7,7 @@
 
 ### 📈 GitHub Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibaMahlezana" />
+[![Thiba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThibaMahlezana)](https://github.com/ThibaMahlezana/github-readme-stats)
 
 <!--
 **ThibaMahlezana/ThibaMahlezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
