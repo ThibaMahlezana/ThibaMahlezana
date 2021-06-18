@@ -14,7 +14,9 @@
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 
 
 ### 📈 GitHub Stats
