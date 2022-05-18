@@ -1,9 +1,9 @@
 # Hi there, I am Thiba 👋
 
-- 🔭 I’m currently working on NodeJS, React Projects, cloning some of the most popular sites today (e.g Facebook, Twitter e.t.c) 
+- 🔭 I’m currently working on NodeJS, React Projects.
 - 🌱 I’m currently learning Dart, Flutter, Deep Learning and Tensorflow.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
-- 📢 Languages: HTML5, CSS3, JS, Python, PHP, NodeJS, ReactJS, C, C++.
+- 📢 Languages: HTML5, CSS3, JavaScript, Python, PHP, NodeJS, ReactJS, C, C++.
 
 
 ### 🔧 Technologies, Tools & Frameworks
