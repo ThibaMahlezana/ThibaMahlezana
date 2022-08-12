@@ -1,7 +1,7 @@
 # Hi there, I am Thiba 👋
 
 - 🔭 I’m currently working on NodeJS, React Projects.
-- 🌱 I’m currently learning Dart, Flutter, Deep Learning and Tensorflow.
+- 🌱 I’m currently learning Deep Learning and Tensorflow.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 📢 Languages: HTML5, CSS3, JavaScript, Python, PHP, NodeJS, ReactJS, C, C++.
 
