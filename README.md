@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Deep Learning and Tensorflow.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
-- 📢 Languages: HTML5, CSS3, JavaScript, Python, PHP, NodeJS, ReactJS, C, C++.
+- 📢 Languages: C, C++, JavaScript, Python, PHP.
 
 
 ### 🔧 Technologies, Tools & Frameworks
