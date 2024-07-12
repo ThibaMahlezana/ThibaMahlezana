@@ -1,6 +1,6 @@
 # Hi there, I am Thiba Mahlezana 👋
 
-- 🌱 I’m currently learning Deep Learning and Tensorflow.
+- 🌱 I’m currently learning Dart and Flutter.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 📢 Languages: C, C++, JavaScript, Python, PHP.
 
